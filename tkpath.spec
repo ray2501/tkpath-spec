@@ -6,7 +6,7 @@ Name:          tkpath
 Summary:       SVG-like rendering for the canvas
 Version:       0.3.3
 Release:       1
-License:       BSD
+License:       BSD-3-Clause
 Group:         Development/Libraries/Tcl
 Source:        %{name}-%{version}.tar.gz
 URL:           https://bitbucket.org/andrew_shadura/tkpath
